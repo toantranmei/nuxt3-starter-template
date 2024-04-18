@@ -12,7 +12,7 @@ a Nuxt 3 starter template with a lot of useful features, integrated with Mei Nux
 - 👀&nbsp; [Play online (app)](https://githubblitz.com/toantranmei/nuxt3-starter-template)
 
 > **NOTES**
-> - This Project using "pnpm" or "bun" as package manager. Feel free tu use your favorite package manager.
+> - This Project using "pnpm" or "bun" as package manager. Feel free to use your favorite package manager.
 
 ## Preview
 
